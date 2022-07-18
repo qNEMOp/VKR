@@ -1,0 +1,107 @@
+D:\Моя папка\пара 2\пара 2\bin\Debug\пара 2.exe
+D:\Моя папка\пара 2\пара 2\bin\Debug\пара 2.pdb
+D:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.csprojResolveAssemblyReference.cache
+D:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+D:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.Cache
+D:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.exe
+D:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\пара 2\пара 2\bin\Debug\пара 2.exe
+E:\Моя папка\пара 2\пара 2\bin\Debug\пара 2.pdb
+E:\Моя папка\пара 2\пара 2\bin\Debug\Tao.FreeGlut.dll
+E:\Моя папка\пара 2\пара 2\bin\Debug\Tao.OpenGl.dll
+E:\Моя папка\пара 2\пара 2\bin\Debug\Tao.Platform.Windows.dll
+E:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.csprojResolveAssemblyReference.cache
+E:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+E:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.Cache
+E:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.exe
+E:\Моя папка\пара 2\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\3д\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+E:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.Cache
+E:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.exe
+E:\Моя папка\3д\пара 2\bin\Debug\пара 2.exe
+E:\Моя папка\3д\пара 2\bin\Debug\пара 2.pdb
+E:\Моя папка\3д\пара 2\bin\Debug\Tao.FreeGlut.dll
+E:\Моя папка\3д\пара 2\bin\Debug\Tao.OpenGl.dll
+E:\Моя папка\3д\пара 2\bin\Debug\Tao.Platform.Windows.dll
+E:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.csprojResolveAssemblyReference.cache
+D:\Моя папка\3д\пара 2\bin\Debug\пара 2.exe
+D:\Моя папка\3д\пара 2\bin\Debug\пара 2.pdb
+D:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.csprojResolveAssemblyReference.cache
+D:\Моя папка\3д\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+D:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.Cache
+D:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.exe
+D:\Моя папка\3д\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.exe
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\Призма\пара 2\bin\Debug\пара 2.exe
+E:\Моя папка\Призма\пара 2\bin\Debug\пара 2.pdb
+E:\Моя папка\Призма\пара 2\bin\Debug\Tao.FreeGlut.dll
+E:\Моя папка\Призма\пара 2\bin\Debug\Tao.OpenGl.dll
+E:\Моя папка\Призма\пара 2\bin\Debug\Tao.Platform.Windows.dll
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+D:\Моя папка\Призма\пара 2\bin\Debug\пара 2.exe
+D:\Моя папка\Призма\пара 2\bin\Debug\пара 2.pdb
+D:\Моя папка\Призма\пара 2\bin\Debug\Tao.FreeGlut.dll
+D:\Моя папка\Призма\пара 2\bin\Debug\Tao.OpenGl.dll
+D:\Моя папка\Призма\пара 2\bin\Debug\Tao.Platform.Windows.dll
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.exe
+D:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.pdb
+E:\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+D:\￿\Моя папка\Призма\пара 2\bin\Debug\пара 2.exe
+D:\￿\Моя папка\Призма\пара 2\bin\Debug\пара 2.pdb
+D:\￿\Моя папка\Призма\пара 2\bin\Debug\Tao.FreeGlut.dll
+D:\￿\Моя папка\Призма\пара 2\bin\Debug\Tao.OpenGl.dll
+D:\￿\Моя папка\Призма\пара 2\bin\Debug\Tao.Platform.Windows.dll
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.exe
+D:\￿\Моя папка\Призма\пара 2\obj\x86\Debug\пара 2.pdb
+C:\Users\stud\Desktop\Призма\пара 2\bin\Debug\пара 2.exe
+C:\Users\stud\Desktop\Призма\пара 2\bin\Debug\пара 2.pdb
+C:\Users\stud\Desktop\Призма\пара 2\bin\Debug\Tao.FreeGlut.dll
+C:\Users\stud\Desktop\Призма\пара 2\bin\Debug\Tao.OpenGl.dll
+C:\Users\stud\Desktop\Призма\пара 2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.exe
+C:\Users\stud\Desktop\Призма\пара 2\obj\x86\Debug\пара 2.pdb
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Debug\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Debug\пара 2.pdb
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Debug\Tao.FreeGlut.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Debug\Tao.OpenGl.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Debug\пара 2.pdb
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\bin\Debug\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\bin\Debug\пара 2.pdb
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\bin\Debug\Tao.FreeGlut.xml
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\bin\Debug\Tao.OpenGl.xml
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.csprojAssemblyReference.cache
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара_2.MainForm.resources
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.csproj.GenerateResource.cache
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.csproj.CoreCompileInputs.cache
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.csproj.CopyComplete
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара 2.pdb
+C:\Users\elise\OneDrive\Рабочий стол\ПризмаИзмен\пара 2\obj\x86\Debug\пара_2.Properties.Resources.resources

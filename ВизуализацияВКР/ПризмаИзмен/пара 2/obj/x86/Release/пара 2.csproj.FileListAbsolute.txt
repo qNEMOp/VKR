@@ -1,0 +1,20 @@
+E:\Моя папка\Призма\пара 2\bin\Release\пара 2.exe
+E:\Моя папка\Призма\пара 2\bin\Release\Tao.FreeGlut.dll
+E:\Моя папка\Призма\пара 2\bin\Release\Tao.OpenGl.dll
+E:\Моя папка\Призма\пара 2\bin\Release\Tao.Platform.Windows.dll
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара 2.csprojAssemblyReference.cache
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара_2.MainForm.resources
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара 2.csproj.GenerateResource.cache
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара 2.csproj.CoreCompileInputs.cache
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара 2.csproj.CopyComplete
+E:\Моя папка\Призма\пара 2\obj\x86\Release\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Release\пара 2.exe
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Release\Tao.FreeGlut.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Release\Tao.OpenGl.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\bin\Release\Tao.Platform.Windows.dll
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара 2.csprojAssemblyReference.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара_2.MainForm.resources
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара 2.csproj.GenerateResource.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара 2.csproj.CoreCompileInputs.cache
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара 2.csproj.CopyComplete
+C:\Users\elise\OneDrive\Рабочий стол\флешка\Призма\пара 2\obj\x86\Release\пара 2.exe
